@@ -30,3 +30,5 @@ var value = yaml.parse(yamlstring)
 ```
 
 If it cannot convert the string it will give an error message with information why it could not convert something and the position inside the string where it failed.
+
+Source code available here: https://github.com/Beliaar/godot-yaml
